@@ -1,0 +1,9 @@
+.container {
+  max-width: 1479px;
+  width: 100%;
+  margin: 0 auto;
+}
+.top-section {
+  background: #ffffff;
+  padding: 47px 0 148px;
+}

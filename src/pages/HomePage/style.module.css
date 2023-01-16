@@ -1,0 +1,8 @@
+.promo-block {
+  padding: 0 108px;
+}
+
+.main-info {
+  display: flex;
+  justify-content: space-between;
+}
