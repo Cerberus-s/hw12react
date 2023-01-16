@@ -1,6 +1,6 @@
 import React from 'react';
 import LogoIcon from './../../shared/images/ozon-logo.png'
-import styles from "./style.module.css";
+import styles from "./style.module.scss";
 
 const Logo = () => {
   return (

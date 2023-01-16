@@ -2,7 +2,7 @@ import React from "react";
 import classNames from "classnames";
 import Logo from "../logo";
 
-import styles from './style.module.css'
+import styles from './style.module.scss'
 
 const Header = (props) => {
   const {
